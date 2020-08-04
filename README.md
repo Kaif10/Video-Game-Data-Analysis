@@ -1,7 +1,6 @@
 ## EDA on Video-Games Sales
 ### Medium blog post on this topic
-
-![alt text](https://medium.com/@kaifkohari10/video-game-sales-analysis-with-python-68c60648820f)
+https://medium.com/@kaifkohari10/video-game-sales-analysis-with-python-68c60648820f
 
 A fun Explotary Data Analysis and Visualisation on Video-Games Sale with Python library Pandas and Matplotlib to find out the best games and Publishers in the gaming market.
 
